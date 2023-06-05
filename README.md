@@ -4,3 +4,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeaCoden/images/main/Mindset.jpg">
   <img alt="Mindset" src="https://raw.githubusercontent.com/BeaCoden/images/main/Mindset.jpg">
 </picture>
+
+![codewars](https://www.codewars.com/users/BeaCoden/badges/large)
+
+[CodeWars profile](https://www.codewars.com/users/BeaCoden)
+
