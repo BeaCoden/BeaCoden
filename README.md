@@ -1,4 +1,4 @@
-                        ✨ I'm learning to code in order to be able to work as a web developer in the future. ✨
+✨ Welcome to my GitHub profile! I appreciate feedback on my code, so feel free to explore my repositories. Let's collaborate and create amazing things together! ✨
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeaCoden/images/main/Mindset.jpg">
