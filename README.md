@@ -1,8 +1,3 @@
 ✨ Hey there! Feel free & explore my repositories. Let's collaborate and create amazing things together! ✨
 
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeaCoden/images/main/Mindset.jpg">
-  <img alt="Mindset" src="https://raw.githubusercontent.com/BeaCoden/images/main/Mindset.jpg">
-</picture>
-
+![Mindset](https://github.com/user-attachments/assets/af4d1e14-524c-4da9-bba4-5245948e09a2)
