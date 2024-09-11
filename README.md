@@ -20,7 +20,10 @@
   <a href="https://www.linkedin.com/in/beapitzschke/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-</p>
+   <a href="https://beacoden.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-CV-brightgreen?style=for-the-badge&logo=cv&logoColor=white" alt="CV"/>
+  </a>
+</p> 
 
 <hr/>
 
