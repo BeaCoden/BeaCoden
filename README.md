@@ -2,15 +2,9 @@
   <img src="https://unsplash.com/photos/oqStl2L5oxI/download?force=true&w=1920" alt="Banner" width="600" />
 </p>
 
-![CatLaptopGIF](https://github.com/user-attachments/assets/fe8bd75b-d4a6-4414-9980-a104248a09bd)
-
-
-
-
-
-<p align="center"><h3 align="center">👩‍💻 Über mich | About Me</h2>
+<p align="center"><h3 align="center">
+  👩‍💻 Über mich | About Me</h2>
 </p>
-
 
 <table  align="center">
   <tr>
@@ -26,7 +20,6 @@
     <td align="center">🚀 practiced in dealing with challenges</td>
   </tr>
 </table>
-
 
 <hr/>
 
