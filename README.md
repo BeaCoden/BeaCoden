@@ -2,14 +2,31 @@
   <img src="https://unsplash.com/photos/oqStl2L5oxI/download?force=true&w=1920" alt="Banner" width="600" />
 </p>
 
-<h2 align="center">Hallo, ich bin Bea! 👋 | Hello, I'm Bea! 👋</h2>
-
-<p align="center">
-  🌍 Junior-Entwicklerin aus Berlin | Junior Developer from Berlin <br>
-  💻 Spezialisiert auf Frontend-Technologien | Specialized in Frontend Technologies <br>
-  🚀 Leidenschaftlich daran interessiert, die Grenzen des Machbaren mit Code zu erweitern | Passionate about pushing the boundaries of what's possible with code.
+<p align="center"><h3 align="center">👩‍💻 Über mich | About Me</h2>
 </p>
 
+
+ <p align="center">
+
+  <table align="left"  >
+     <tr  >
+      <td  >🌍 Junior-Entwicklerin aus Berlin...</td>
+      <td  >🌍 Junior Developer from Berlin...</td>
+    </tr>
+  </table>
+ <table align="center" >
+    <tr  >
+      <td  >💻 ...fokussiert auf Frontend-Technologien...</td>
+      <td >💻 ...focused in Frontend Technologies...</td>
+    </tr>
+</table>
+ <table align="right" >
+ <tr  >
+      <td >🚀 ...geübt im Umgang mit Herausforderungen!</td>
+      <td  >🚀 ...practiced in dealing with challenges!</td>
+    </tr>    
+ </table> 
+ </p>
 <hr/>
 
 <h3 align="center">📫 Kontakt | Contact</h3>
