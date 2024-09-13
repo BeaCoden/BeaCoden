@@ -6,27 +6,22 @@
 </p>
 
 
- <p align="center">
-
-  <table align="left"  >
-     <tr  >
-      <td  >🌍 Junior-Entwicklerin aus Berlin...</td>
-      <td  >🌍 Junior Developer from Berlin...</td>
-    </tr>
-  </table>
- <table align="center" >
-    <tr  >
-      <td  >💻 ...fokussiert auf Frontend-Technologien...</td>
-      <td >💻 ...focused in Frontend Technologies...</td>
-    </tr>
+<table  align="center">
+  <tr>
+    <td align="center">🌍 Junior-Entwicklerin aus Berlin</td>
+    <td align="center">💻 fokussiert auf Frontend-Technologien</td>
+    <td align="center">🚀 geübt im Umgang mit Herausforderungen</td>
+  </tr>
 </table>
- <table align="right" >
- <tr  >
-      <td >🚀 ...geübt im Umgang mit Herausforderungen!</td>
-      <td  >🚀 ...practiced in dealing with challenges!</td>
-    </tr>    
- </table> 
- </p>
+<table  align="center">
+  <tr>
+    <td align="center">🌍 Junior Developer from Berlin</td>
+    <td align="center">💻 focused on Frontend Technologies</td>
+    <td align="center">🚀 practiced in dealing with challenges</td>
+  </tr>
+</table>
+
+
 <hr/>
 
 <h3 align="center">📫 Kontakt | Contact</h3>
@@ -99,5 +94,5 @@
 ---
 
 <p align="center">
-  Danke, dass du mein Profil besucht hast! | Thank you for visiting my profile! 😊
+  Danke, dass du mein Profil besucht hast | Thank you for visiting my profile 😊
 </p>
